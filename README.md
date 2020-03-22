@@ -1,5 +1,5 @@
 # instagram-enc_passowrd-generator
-Python Instagram private API's enc_password generator.
+Node.js Instagram private API's enc_password generator.
 
 
 ## Special thanks
